@@ -127,7 +127,7 @@ namespace Quiz
         {
             StatisticCommand = new Command(StatisticFunk);
             FalschCommand = new Command(FalschFunk);
-            RichtigCommand = new Command(StatisticFunk);
+            RichtigCommand = new Command(RichtigFunk);
             ÜberspringenCommand = new Command(ÜberspringenFunk);
             MeineListe.Add(f1);
             MeineListe.Add(f2);

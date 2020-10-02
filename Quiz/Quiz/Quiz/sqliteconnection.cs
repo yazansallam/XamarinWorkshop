@@ -6,18 +6,25 @@ using System.Text;
 
 namespace Quiz
 {
-   static  class sqliteconnection
+   public class StatistikDatenbank
     {
-       
-        public static SQLiteConnection db { get; }
+        readonly SQLiteConnection db;
 
-       static sqliteconnection()
+       public StatistikDatenbank(string dbPath)
         {
-            var dbPath = Path.Combine(
-            Environment.GetFolderPath(Environment.SpecialFolder.Personal),
-            "ormdemo.db3");
             db = new SQLiteConnection(dbPath);
-            db.CreateTable<Stock>();
-        }                       
+            db.CreateTable<Statistik>();
+        }
+
+        public int SaveStatistik(Statistik stat)
+        {
+            stat.Id = 0;
+            return db.InsertOrReplace(stat);            
+        }
+
+        public Statistik LoadStatistik()
+        {
+            return db.Table<Statistik>().FirstOrDefault();
+        }
     }
 }

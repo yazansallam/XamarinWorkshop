@@ -1,0 +1,15 @@
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/bin/Debug/netstandard2.0/Quiz.deps.json
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/bin/Debug/netstandard2.0/Quiz.dll
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/bin/Debug/netstandard2.0/ref/Quiz.dll
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/bin/Debug/netstandard2.0/Quiz.pdb
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.AssemblyInfoInputs.cache
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.AssemblyInfo.cs
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.csproj.CoreCompileInputs.cache
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.dll
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/ref/Quiz.dll
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.pdb
+C:/Users/Damago/source/repos/Quiz/Quiz/Quiz/obj/Debug/netstandard2.0/Quiz.csprojAssemblyReference.cache

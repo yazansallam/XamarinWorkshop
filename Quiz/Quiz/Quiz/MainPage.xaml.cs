@@ -10,10 +10,10 @@ namespace Quiz
 {
     public partial class MainPage : ContentPage
     {
-        public MainPage()
+        public MainPage(object bindingContext)
         {
             InitializeComponent();
-            BindingContext = new ViewModel();
+            BindingContext = bindingContext;
         }
 
         private void Button_Clicked(object sender, EventArgs e)
